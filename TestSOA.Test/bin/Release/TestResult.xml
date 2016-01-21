@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\TestSOA.Test.dll" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-01-21" time="17:08:06">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.7905" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\02272453856\Documents\Visual Studio 2005\Projects\NUnit-2.6.3\bin" machine-name="SPOPSRVV0032" user="02272453856" user-domain="SERPRO-RLSL" />
+  <culture-info current-culture="pt-BR" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\TestSOA.Test.dll" executed="True" result="Failure" success="False" time="2.796" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TestSOA" executed="True" result="Failure" success="False" time="2.766" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Failure" success="False" time="2.766" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="UnitTestSOA" executed="True" result="Failure" success="False" time="2.762" asserts="0">
+                <results>
+                  <test-case name="TestSOA.Test.UnitTestSOA.Add" executed="True" result="Success" success="True" time="0.164" asserts="1" />
+                  <test-case name="TestSOA.Test.UnitTestSOA.GetResult" executed="True" result="Failure" success="False" time="2.572" asserts="1">
+                    <failure>
+                      <message><![CDATA[  String lengths are both 9. Strings differ at index 8.
+  Expected: "2 + 3 = 4"
+  But was:  "2 + 3 = 5"
+  -------------------^
+]]></message>
+                      <stack-trace><![CDATA[at TestSOA.Test.UnitTestSOA.GetResult() in C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\UnitTestSOA.vb:line 19
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Client
+</name>
+</assembly>
+<members>
+<member name="F:Client.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.Label">
+	<summary>
+Label control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.FirstNumber">
+	<summary>
+FirstNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.TextBoxFirstNumber">
+	<summary>
+TextBoxFirstNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.SecondNumber">
+	<summary>
+SecondNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.TextBoxSecondNumber">
+	<summary>
+TextBoxSecondNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.DropDownList">
+	<summary>
+DropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.Button">
+	<summary>
+Button control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Client.WebForm1.LabelResult">
+	<summary>
+LabelResult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Client.WebForm1">
+	<summary>
+WebForm1 class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.#ctor">
+	<remarks/>
+</member><member name="E:Client.ServiceReference.CalculatorWebService.AddCompleted">
+	<remarks/>
+</member><member name="E:Client.ServiceReference.CalculatorWebService.SubtractCompleted">
+	<remarks/>
+</member><member name="E:Client.ServiceReference.CalculatorWebService.MultiplyCompleted">
+	<remarks/>
+</member><member name="E:Client.ServiceReference.CalculatorWebService.DivisionCompleted">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.Add(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.AddAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.AddAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.Subtract(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.SubtractAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.SubtractAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.Multiply(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.MultiplyAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.MultiplyAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.Division(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.DivisionAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.DivisionAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:Client.ServiceReference.CalculatorWebService.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.CalculatorWebService">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.AddCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Client.ServiceReference.AddCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.AddCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.SubtractCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Client.ServiceReference.SubtractCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.SubtractCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.MultiplyCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Client.ServiceReference.MultiplyCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.MultiplyCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.DivisionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Client.ServiceReference.DivisionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Client.ServiceReference.DivisionCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\bin\Client.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\bin\Client.XmlSerializers.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\bin\Client.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\bin\Client.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\ResolveAssemblyReference.cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\Client.Resources.resources
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\Client.vbproj.GenerateResource.Cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\Client.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\Client.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\Client.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Client\obj\Release\Client.XmlSerializers.dll

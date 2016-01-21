@@ -1,0 +1,17 @@
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\obj\Release\TestSOA.Test.Resources.resources
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\obj\Release\TestSOA.Test.vbproj.GenerateResource.Cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\TestSOA.Test.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\TestSOA.Test.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\TestSOA.Test.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Client.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\nunit.framework.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Server.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Client.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Client.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Server.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Server.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\bin\Release\Client.XmlSerializers.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\obj\Release\TestSOA.Test.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\obj\Release\TestSOA.Test.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\TestSOA.Test\obj\Release\TestSOA.Test.pdb

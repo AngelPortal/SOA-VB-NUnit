@@ -1,0 +1,15 @@
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Debug\Server.Resources.resources
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Debug\Server.vbproj.GenerateResource.Cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Debug\Server.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Debug\Server.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Debug\Server.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\bin\Server.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\bin\Server.pdb
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\bin\Server.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Release\ResolveAssemblyReference.cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Release\Server.Resources.resources
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Release\Server.vbproj.GenerateResource.Cache
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Release\Server.dll
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Release\Server.xml
+C:\Users\02272453856\Documents\Visual Studio 2005\Projects\SOA-VB-NUnit\Server\obj\Release\Server.pdb
